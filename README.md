@@ -60,7 +60,7 @@ Barclays-Customer-Churn-Analysis/
 ## 🖥️ Dashboard Pages
 
 ### Page 1 — Home
-![Home](POWer%20Bi/Screenshots/dashboard_page_1.png)
+![Home]([POWer%20Bi/Screenshots/dashboard_page_1.png](https://github.com/reactwithrajeev/Barclays-Customer-Churn-Analysis/blob/main/POwer%20Bi/Screenshots/dashboard_page_1.png))
 
 ### Page 2 — Main Dashboard
 ![Dashboard](POWer%20Bi/Screenshots/dashboard_page_2.png)
