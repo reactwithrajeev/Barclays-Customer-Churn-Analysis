@@ -63,16 +63,16 @@ Barclays-Customer-Churn-Analysis/
 ![Home](POwer%20Bi/Screenshots/dashboard_page_1.png)
 
 ### Page 2 — Main Dashboard
-![Dashboard](POWer%20Bi/Screenshots/dashboard_page_2.png)
+![Dashboard](POwer%20Bi/Screenshots/dashboard_page_2.png)
 
 ### Page 3 — Customer Wise Analysis
-![Customer Wise Analysis](POWer%20Bi/Screenshots/dashboard_page_3.png)
+![Customer Wise Analysis](POwer%20Bi/Screenshots/dashboard_page_3.png)
 
 ### Page 4 — Time Series Analysis
-![Time Series Analysis](POWer%20Bi/Screenshots/dashboard_page_4.png)
+![Time Series Analysis](POwer%20Bi/Screenshots/dashboard_page_4.png)
 
 ### Page 5 — Insights & Outcomes
-![Insights](POWer%20Bi/Screenshots/dashboard_page_5.png)
+![Insights](POwer%20Bi/Screenshots/dashboard_page_5.png)
 
 ---
 
